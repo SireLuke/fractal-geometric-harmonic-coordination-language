@@ -1,6 +1,6 @@
 # Fractal-Geometric Harmonic Coordination Language (FGHCL)
 
-**Azabith** is the proposed human-readable notation/dialect for FGHCL.
+**Azabith** is the human-readable notation/dialect for FGHCL.
 
 FGHCL defines a typed, provenance-preserving language for describing PAN V8 states, geometric/cymatic observations, JOBF transformations, Janus Hydra translations, and paired UHFE/UDFE representations.
 
@@ -13,19 +13,20 @@ FGHCL defines a typed, provenance-preserving language for describing PAN V8 stat
 - **Janus Hydra:** fractal-geometric translator operating in tandem with V8; it is neither UHFE nor UDFE.
 - **UHFE / UDFE:** paired formation and dissolution representations downstream of Janus translation.
 
-## Specification
+## Specifications
 
-See [FGHCL / Azabith Foundational Language Specification — Draft 0.1](docs/FGHCL_AZABITH_SPEC_v0.1.md).
+- [FGHCL / Azabith Foundational Language Specification — Draft 0.1](docs/FGHCL_AZABITH_SPEC_v0.1.md)
+- [Azabith v0.1 Frozen State Grammar](docs/AZABITH_V0.1_GRAMMAR.md)
 
-The specification covers:
-- canonical V8 coordinate registry and semantic-version guardrails;
-- metric provenance, uncertainty, normalization, and immutable source records;
-- Janus Hydra translation contracts;
-- UHFE/UDFE midpoint and asymmetry representation;
-- JOBF operation contracts and invariant checks;
-- geometric cymatics and honeycomb/lattice records;
-- illustrative Azabith notation and validation requirements.
+## Parser implementation
 
-## Status
+The first executable Azabith v0.1 subset parses typed V8 state records. It provides a tokenizer, immutable AST records, schema/version validation, and deterministic canonical serialization. The scope is intentionally limited: JOBF operation syntax, Janus Hydra translation blocks, UHFE/UDFE expressions, geometry declarations, and cymatics records are not parsed yet.
 
-Draft architecture and notation specification only. This repository does not yet provide a production parser, runtime, or validated physical model. Examples are illustrative until the grammar, semantic registry, and executable conformance tests are implemented.
+Run the conformance suite:
+
+```bash
+python -m pip install -e .
+python -m unittest discover -s tests -v
+```
+
+Parser tests establish syntax and declared-schema behavior only. They do not validate physical interpretations or models.
