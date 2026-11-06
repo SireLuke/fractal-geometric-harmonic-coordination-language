@@ -44,7 +44,7 @@ document       = language_decl, state_decl, EOF ;
 language_decl  = "language", "FGHCL.Azabith", "version", string ;
 state_decl     = "state", "V8", string, "semantics", string,
                  "{", { state_member }, "}" ;
-state_member   = coordinate, | metadata ;
+state_member   = coordinate | metadata ;
 coordinate     = coordinate_name, ":", number,
                  [ "unit", string ],
                  [ "uncertainty", uncertainty_value ] ;
