@@ -1,11 +1,11 @@
-Fractal Harmonic Coordination Language — Foundation Specification (v0.1)
+Fractal Geometric Harmonic Coordination Language — Foundation Specification (v0.1)
 
 ---
 
-1. Purpose of FHCL
+1. Purpose of FGHCL
 Fractal Harmonic Coordination Language (FHCL) is the meta‑language that unifies the symbolic, geometric, harmonic, and tensor components of the Fractal Harmonic Computing paradigm.
 
-FHCL provides:
+FGHCL provides:
 
 - a universal grammar for harmonic computation  
 - a coordination substrate for UHFE/UDFE  
@@ -13,14 +13,14 @@ FHCL provides:
 - a control language for the fractal kernel  
 - a foundation for PANoRAMic.os
 
-FHCL is not a programming language.  
+FGHCL is not a programming language.  
 It is a computational ontology.
 
 ---
 
-2. The Four‑Layer Architecture
+2. The 5‑Layer Architecture
 
-FHCL sits at the center of a four‑layer stack:
+FGHCL sits at the center of a four‑layer stack:
 
 Layer 1 — Mathematical Layer (UHFE/UDFE)
 - UHFE: Universal Harmonic Field Equation  
@@ -33,8 +33,8 @@ Layer 1 — Mathematical Layer (UHFE/UDFE)
 
 These equations define the physics of the computational paradigm.
 
----Layer 2 — Language Layer (FHCL)
-FHCL defines:
+---Layer 2 — Language Layer (FGHCL)
+FGHCL defines:
 
 - grammar  
 - operators  
@@ -45,7 +45,7 @@ FHCL defines:
 - category morphisms  
 - graph rewrite rules  
 
-FHCL is the coordination language for the entire system.
+FGHCL is the coordination language for the entire system.
 
 ---
 
@@ -65,7 +65,7 @@ The kernel is the execution engine.
 ---
 
 Layer 4 — System Layer (PANoRAMic.os)
-PAN.os uses FHCL + the fractal kernel to coordinate:
+PAN.os uses FGHCL + the fractal kernel to coordinate:
 
 - planetary systems  
 - ecological networks  
@@ -75,10 +75,10 @@ PAN.os uses FHCL + the fractal kernel to coordinate:
 
 PAN.os is the operating system.---
 
-3. FHCL Core Concepts
+3. FGHCL Core Concepts
 
 3.1 Symbolic Units
-FHCL symbols originate from the Abazith lexicon.
+FGHCL symbols originate from the Abazith lexicon.
 
 Each symbol has:
 
@@ -92,7 +92,7 @@ These feed the kernel’s 8D vector model.
 ---
 
 3.2 Harmonic Geometry
-FHCL treats harmonic modes as geometry.
+FGHCL treats harmonic modes as geometry.
 
 Inputs include:
 
@@ -106,19 +106,19 @@ Geometry becomes a computational state.
 ---
 
 3.3 Tensor Fields
-FHCL binds symbols + geometry into tensor fields.
+FGHCL binds symbols + geometry into tensor fields.
 
 These tensors are updated by:
 
 - UHFE (constructive)  
 - UDFE (decoherence)  
 
-FHCL defines how tensors evolve across time and recursion.
+FGHCL defines how tensors evolve across time and recursion.
 
 ------
 
 3.4 Graph Rewrite Logic
-FHCL uses graph rewrite systems to define:
+FGHCL uses graph rewrite systems to define:
 
 - routing  
 - transitions  
@@ -130,7 +130,7 @@ This allows emergent behavior without agents or reward loops.
 ---
 
 3.5 Category Theory Bindings
-FHCL uses category theory to unify:
+FGHCL uses category theory to unify:
 
 - transformations  
 - morphisms  
@@ -142,7 +142,7 @@ This ensures the architecture remains mathematically coherent.
 ---
 
 4. The 8D Vector Model
-FHCL defines the mapping rules for the kernel’s 8D vector:
+FGHCL defines the mapping rules for the kernel’s 8D vector:
 
 \[(h, r, u, d, \tau, \chi, s, f)\]
 
@@ -157,13 +157,13 @@ Where:
 - s = phonetic weight  
 - f = fractal index  
 
-FHCL specifies how each dimension is derived.
+FGHCL specifies how each dimension is derived.
 
 ---5. Execution Flow
-FHCL coordinates the full computational pipeline:
+FGHCL coordinates the full computational pipeline:
 
 1. Symbol  
-2. → FHCL grammar  
+2. → FGHCL grammar  
 3. → Fractal kernel mapping  
 4. → 8D vector generation  
 5. → UHFE/UDFE field update  
@@ -175,7 +175,7 @@ This is the core loop of Fractal Harmonic Computing.
 ---
 
 6. Design Philosophy
-FHCL is built on:
+FGHCL is built on:
 
 - harmonic logic  
 - geometric computation  
@@ -185,19 +185,19 @@ FHCL is built on:
 - non‑agentic coordination  
 - post‑Neumann architecture  
 
-FHCL avoids:
+FGHCL avoids:
 
 - reward loops  
 - self‑preservation logic  
 - agent‑based cognition  
 - classical instruction sets  
 
-FHCL is a safe, non‑agentic, field‑native language.
+FGHCL is a safe, non‑agentic, field‑native language.
 
 ---
 
 7. Long‑Term Vision
-FHCL is the foundation of:
+FGHCL is the foundation of:
 
 Fractal Harmonic Computing
 A next‑tier computational paradigm capable of:
@@ -208,20 +208,20 @@ A next‑tier computational paradigm capable of:
 - field‑based computation  
 - civilization‑scale modeling  
 
-FHCL is the grammar of a new computational science.
+FGHCL is the grammar of a new computational science.
 
 ---
 
 8. Repository Relationships
 
-| Repo | Role | Relationship to FHCL |
+| Repo | Role | Relationship to FGHCL |
 |------|------|-----------------------|
-| PANoRAMic.os | OS | Executes FHCL‑driven routing |
-| RelayWorks | Infra | Bridges FHCL to present‑day tooling |
-| universal-harmonic-formula | Math | Provides UHFE/UDFE operators FHCL binds |
-| pan-fractal-kernel | Processor | Executes FHCL grammar using 8D vectors |
-| fractal-harmonic-language | Language | This repo — FHCL spec lives here |
+| PANoRAMic.os | OS | Executes FGHCL‑driven routing |
+| RelayWorks | Infra | Bridges FGHCL to present‑day tooling |
+| universal-harmonic-formula | Math | Provides UHFE/UDFE operators FGHCL binds |
+| pan-fractal-kernel | Processor | Executes FGHCL grammar using 8D vectors |
+| fractal-harmonic-language | Language | This repo — FGHCL spec lives here |
 
-FHCL is the central coordination layer.
+FGHCL is the central coordination layer.
 
 ---
