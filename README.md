@@ -30,3 +30,9 @@ python -m unittest discover -s tests -v
 ```
 
 Parser tests establish syntax and declared-schema behavior only. They do not validate physical interpretations or models.
+
+## Documents
+- [`FHCL_foundation.md`](FHCL_foundation.md): foundation specification v0.1 (unchanged)
+- [`docs/janus_hydra_semantic_ingestor.md`](docs/janus_hydra_semantic_ingestor.md): the ten-head Janus Hydra semantic reader
+- [`docs/FHCL_reconciliation.md`](docs/FHCL_reconciliation.md): differences between v0.1 wording and the canonical V8 contract
+
