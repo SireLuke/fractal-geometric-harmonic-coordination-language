@@ -39,9 +39,9 @@ Formulas: UHFE as in the UHFE repository; UDFE inverse heads use complements 1�
 
 Hence under v1 the `d` channel of UDFE is the mean of all five inverse heads, while UHFE's `d` channel sees one head. The two projections are independent; no relation U_D = 1 − U_H is imposed.
 
-## 5. Interface with Azabith v0.1 (as of the current parser)
+## 5. Interface with Abazith v0.1 (as of the current parser)
 
-The Azabith parser (`src/azabith`) reads a `state V8 ... semantics "v8-core-1"` record into typed coordinates in canonical order, each with an optional unit (one of `1, %, m, s, ms, rad, deg, Hz, kg`) and uncertainty. Per `docs/AZABITH_V0.1_GRAMMAR.md` it requires finite numbers and **does not impose a [0,1] range**. The reader above requires unitless values in [0,1] with χ already mapped. So between a parsed Azabith state and this ingestor there must be an explicit, declared normalization step (native domain, unit, transform) that does **not yet exist**; the reader will reject, not clamp, anything outside [0,1]. Janus translation blocks and UHFE/UDFE expressions are not parsed by Azabith v0.1 yet.
+The Abazith parser (`src/abazith`) reads a `state V8 ... semantics "v8-core-1"` record into typed coordinates in canonical order, each with an optional unit (one of `1, %, m, s, ms, rad, deg, Hz, kg`) and uncertainty. Per `docs/ABAZITH_V0.1_GRAMMAR.md` it requires finite numbers and **does not impose a [0,1] range**. The reader above requires unitless values in [0,1] with χ already mapped. So between a parsed Abazith state and this ingestor there must be an explicit, declared normalization step (native domain, unit, transform) that does **not yet exist**; the reader will reject, not clamp, anything outside [0,1]. Janus translation blocks and UHFE/UDFE expressions are not parsed by Abazith v0.1 yet.
 
 ## 6. Guarantees and non-guarantees
 
