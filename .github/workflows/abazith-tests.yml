@@ -1,8 +1,8 @@
-name: Azabith parser tests
+name: Abazith parser tests
 
 on:
   push:
-    branches: ["main", "feat/azabith-v0.1-parser-conformance"]
+    branches: ["main", "feat/abazith-v0.1-parser-conformance"]
   pull_request:
 
 jobs:

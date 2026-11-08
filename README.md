@@ -1,6 +1,6 @@
 # Fractal-Geometric Harmonic Coordination Language (FGHCL)
 
-**Azabith** is the human-readable notation/dialect for FGHCL.
+**Abazith** is the human-readable notation/dialect for FGHCL.
 
 FGHCL defines a typed, provenance-preserving language for describing PAN V8 states, geometric/cymatic observations, JOBF transformations, Janus Hydra translations, and paired UHFE/UDFE representations.
 
@@ -15,12 +15,12 @@ FGHCL defines a typed, provenance-preserving language for describing PAN V8 stat
 
 ## Specifications
 
-- [FGHCL / Azabith Foundational Language Specification — Draft 0.1](docs/FGHCL_AZABITH_SPEC_v0.1.md)
-- [Azabith v0.1 Frozen State Grammar](docs/AZABITH_V0.1_GRAMMAR.md)
+- [FGHCL / Abazith Foundational Language Specification — Draft 0.1](docs/FGHCL_ABAZITH_SPEC_v0.1.md)
+- [Abazith v0.1 Frozen State Grammar](docs/ABAZITH_V0.1_GRAMMAR.md)
 
 ## Parser implementation
 
-The first executable Azabith v0.1 subset parses typed V8 state records. It provides a tokenizer, immutable AST records, schema/version validation, and deterministic canonical serialization. The scope is intentionally limited: JOBF operation syntax, Janus Hydra translation blocks, UHFE/UDFE expressions, geometry declarations, and cymatics records are not parsed yet.
+The first executable Abazith v0.1 subset parses typed V8 state records. It provides a tokenizer, immutable AST records, schema/version validation, and deterministic canonical serialization. The scope is intentionally limited: JOBF operation syntax, Janus Hydra translation blocks, UHFE/UDFE expressions, geometry declarations, and cymatics records are not parsed yet.
 
 Run the conformance suite:
 
