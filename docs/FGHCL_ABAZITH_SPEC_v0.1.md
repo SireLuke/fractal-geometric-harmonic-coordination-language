@@ -1,4 +1,4 @@
-# FGHCL / Azabith — Foundational Language Specification (Draft 0.1)
+# FGHCL / Abazith — Foundational Language Specification (Draft 0.1)
 
 **Status:** architectural draft; not yet a parser, runtime, or validated physical model  
 **Repository:** `fractal-geometric-harmonic-coordination-language`  
@@ -6,7 +6,7 @@
 
 ## 1. Design intent
 
-FGHCL (Fractal-Geometric Harmonic Coordination Language) is the host language and data model. **Azabith** is the proposed human-readable notation/dialect within FGHCL. The name is treated here as a project-defined language term, not as an established external standard.
+FGHCL (Fractal-Geometric Harmonic Coordination Language) is the host language and data model. **Abazith** is the proposed human-readable notation/dialect within FGHCL. The name is treated here as a project-defined language term, not as an established external standard.
 
 The language must make it possible to:
 - represent measured, simulated, inferred, and user-defined metrics without conflating their provenance;
@@ -28,9 +28,9 @@ The following components have separate responsibilities and must not be collapse
 | D8 | A distinct rank-8 root system and, in the relevant construction, a symmetry subgroup acting compatibly on E8 | A synonym for E8 or a generic synonym for eight dimensions |
 | JOBF | Breathing, folding, flipping, rotating, and omnidirectional geometric operation family | A replacement for the underlying reference geometry |
 | V8 | Eight-coordinate manifold/state representation | A geometric polytope or a translator |
-| Janus Hydra | Fractal-geometric translator operating in tandem with V8 manifold states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/dissolution head |
+| Janus Hydra | Fractal-geometric translator operating in tandem with V8 manifold states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/decoherence head |
 | UHFE | Formation / constructive-organization representation | Janus Hydra |
-| UDFE | Dissolution / inverse-organization representation | Janus Hydra |
+| UDFE | Decoherence / inverse-organization representation | Janus Hydra |
 
 ### 2.1 Data flow
 
@@ -122,7 +122,7 @@ Janus Hydra does not own the source observations and does not mutate canonical V
 Janus outputs are compiled into the paired baseline representations:
 
 - **UHFE:** formation / constructive organization.
-- **UDFE:** dissolution / inverse organization.
+- **UDFE:** decoherence / inverse organization.
 
 For a paired channel (i), define a midpoint and asymmetry when both sides are expressed in the same declared scale:
 
@@ -199,12 +199,12 @@ A `lattice` record SHOULD declare:
 
 For a planar regular hexagonal honeycomb, the language may encode hexagonal cells and their adjacency graph. Higher-dimensional honeycomb or Gosset-derived structures require their own explicit combinatorial definitions; do not infer them from a 2D picture.
 
-## 10. Azabith notation conventions
+## 10. Abazith notation conventions
 
-Azabith is a readable, typed notation. The following is illustrative syntax for the proposed language; it is not yet a parser grammar.
+Abazith is a readable, typed notation. The following is illustrative syntax for the proposed language; it is not yet a parser grammar.
 
-```azabith
-language FGHCL.Azabith version "0.1-draft"
+```abazith
+language FGHCL.Abazith version "0.1-draft"
 
 state V8 "state-0001" semantics "v8-core-1" {
   h: 0.82
@@ -269,7 +269,7 @@ A conforming implementation should test:
 
 ## 12. Non-goals and guardrails
 
-- No claim that FGHCL, Azabith, V8, JOBF, or Janus Hydra establishes new physics.
+- No claim that FGHCL, Abazith, V8, JOBF, or Janus Hydra establishes new physics.
 - No automatic equivalence between visual pattern similarity and shared underlying geometry.
 - No conflation of E8, D8, Gosset 4₂₁, the 8D cross-polytope, and generic 8D coordinate space.
 - No mutation of canonical observations during visualization or view traversal.
@@ -283,5 +283,5 @@ A conforming implementation should test:
 - Define the Janus Hydra transform interface and uncertainty propagation rules.
 - Define JOBF transformation groups, deformation operators, and invariants per operation.
 - Specify cymatic acquisition formats and reference datasets.
-- Formalize Azabith grammar (EBNF or PEG), type system, and parser conformance suite.
+- Formalize Abazith grammar (EBNF or PEG), type system, and parser conformance suite.
 - Add executable examples and property-based tests after the grammar and semantic registry are agreed.

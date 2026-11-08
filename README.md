@@ -1,6 +1,6 @@
 # Fractal-Geometric Harmonic Coordination Language (FGHCL)
 
-**Azabith** is the human-readable notation/dialect for FGHCL.
+**Abazith** is the human-readable notation/dialect for FGHCL.
 
 FGHCL defines a typed, provenance-preserving language for describing PAN V8 states, geometric/cymatic observations, JOBF transformations, Janus Hydra translations, and paired UHFE/UDFE representations.
 
@@ -11,16 +11,16 @@ FGHCL defines a typed, provenance-preserving language for describing PAN V8 stat
 - **JOBF:** breathing, folding, flipping, rotating, and omnidirectional geometric operations.
 - **V8:** eight-coordinate manifold/state representation.
 - **Janus Hydra:** fractal-geometric translator operating in tandem with V8; it is neither UHFE nor UDFE.
-- **UHFE / UDFE:** paired formation and dissolution representations downstream of Janus translation.
+- **UHFE / UDFE:** paired formation and decoherence representations downstream of Janus translation.
 
 ## Specifications
 
-- [FGHCL / Azabith Foundational Language Specification — Draft 0.1](docs/FGHCL_AZABITH_SPEC_v0.1.md)
-- [Azabith v0.1 Frozen State Grammar](docs/AZABITH_V0.1_GRAMMAR.md)
+- [FGHCL / Abazith Foundational Language Specification — Draft 0.1](docs/FGHCL_ABAZITH_SPEC_v0.1.md)
+- [Abazith v0.1 Frozen State Grammar](docs/ABAZITH_V0.1_GRAMMAR.md)
 
 ## Parser implementation
 
-The first executable Azabith v0.1 subset parses typed V8 state records. It provides a tokenizer, immutable AST records, schema/version validation, and deterministic canonical serialization. The scope is intentionally limited: JOBF operation syntax, Janus Hydra translation blocks, UHFE/UDFE expressions, geometry declarations, and cymatics records are not parsed yet.
+The first executable Abazith v0.1 subset parses typed V8 state records. It provides a tokenizer, immutable AST records, schema/version validation, and deterministic canonical serialization. The scope is intentionally limited: JOBF operation syntax, Janus Hydra translation blocks, UHFE/UDFE expressions, geometry declarations, and cymatics records are not parsed yet.
 
 Run the conformance suite:
 
@@ -32,7 +32,7 @@ python -m unittest discover -s tests -v
 Parser tests establish syntax and declared-schema behavior only. They do not validate physical interpretations or models.
 
 ## Documents
-- [`FHCL_foundation.md`](FHCL_foundation.md): foundation specification v0.1 (unchanged)
+- [`FGHCL_foundation.md`](FGHCL_foundation.md): foundation specification v0.1 (unchanged)
 - [`docs/janus_hydra_semantic_ingestor.md`](docs/janus_hydra_semantic_ingestor.md): the ten-head Janus Hydra semantic reader
-- [`docs/FHCL_reconciliation.md`](docs/FHCL_reconciliation.md): differences between v0.1 wording and the canonical V8 contract
+- [`docs/FGHCL_reconciliation.md`](docs/FGHCL_reconciliation.md): differences between v0.1 wording and the canonical V8 contract
 
