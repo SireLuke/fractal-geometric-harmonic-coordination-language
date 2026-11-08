@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "abazith-lexicon-v1",
+  "type": "object",
+  "required": ["schema", "count", "provenance", "fields_absent", "symbols"],
+  "properties": {
+    "schema": {"const": "abazith-lexicon-v1"},
+    "count": {"type": "integer", "minimum": 1},
+    "provenance": {"type": "string"},
+    "fields_absent": {"type": "array", "items": {"type": "string"}},
+    "symbols": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "section", "gloss", "code", "family", "mode"],
+        "properties": {
+          "name": {"type": "string", "pattern": "^[A-Z][a-z]+$"},
+          "section": {"type": "string", "pattern": "^[A-Z]$"},
+          "gloss": {"type": "string", "minLength": 1},
+          "code": {"type": "string", "pattern": "^[A-Z]+$"},
+          "family": {"type": "string", "minLength": 1},
+          "mode": {"enum": ["physical", "energetic", "essential", "semi-physical", "semi-energetic"]}
+        }
+      }
+    }
+  }
+}
