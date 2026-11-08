@@ -28,9 +28,9 @@ The following components have separate responsibilities and must not be collapse
 | D8 | A distinct rank-8 root system and, in the relevant construction, a symmetry subgroup acting compatibly on E8 | A synonym for E8 or a generic synonym for eight dimensions |
 | JOBF | Breathing, folding, flipping, rotating, and omnidirectional geometric operation family | A replacement for the underlying reference geometry |
 | V8 | Eight-coordinate manifold/state representation | A geometric polytope or a translator |
-| Janus Hydra | Fractal-geometric translator operating in tandem with V8 manifold states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/dissolution head |
+| Janus Hydra | Fractal-geometric translator operating in tandem with V8 manifold states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/decoherence head |
 | UHFE | Formation / constructive-organization representation | Janus Hydra |
-| UDFE | Dissolution / inverse-organization representation | Janus Hydra |
+| UDFE | Decoherence / inverse-organization representation | Janus Hydra |
 
 ### 2.1 Data flow
 
@@ -122,7 +122,7 @@ Janus Hydra does not own the source observations and does not mutate canonical V
 Janus outputs are compiled into the paired baseline representations:
 
 - **UHFE:** formation / constructive organization.
-- **UDFE:** dissolution / inverse organization.
+- **UDFE:** decoherence / inverse organization.
 
 For a paired channel (i), define a midpoint and asymmetry when both sides are expressed in the same declared scale:
 

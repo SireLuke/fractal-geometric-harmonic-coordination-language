@@ -12,7 +12,7 @@
 - **V8** is the versioned eight-coordinate state schema.
 - **JOBF** names geometric operations; it is not the state schema.
 - **Janus Hydra** is the fractal-geometric translator; it is neither UHFE nor UDFE.
-- **UHFE / UDFE** are the paired formation / dissolution representations downstream of translation.
+- **UHFE / UDFE** are the paired formation / decoherence representations downstream of translation.
 
 The parser only constructs and validates source records. It does not execute geometry, perform Janus translation, calculate UHFE/UDFE, or assert physical validity.
 

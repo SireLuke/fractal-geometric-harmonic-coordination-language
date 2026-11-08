@@ -11,7 +11,7 @@ FGHCL defines a typed, provenance-preserving language for describing PAN V8 stat
 - **JOBF:** breathing, folding, flipping, rotating, and omnidirectional geometric operations.
 - **V8:** eight-coordinate manifold/state representation.
 - **Janus Hydra:** fractal-geometric translator operating in tandem with V8; it is neither UHFE nor UDFE.
-- **UHFE / UDFE:** paired formation and dissolution representations downstream of Janus translation.
+- **UHFE / UDFE:** paired formation and decoherence representations downstream of Janus translation.
 
 ## Specifications
 
@@ -32,7 +32,7 @@ python -m unittest discover -s tests -v
 Parser tests establish syntax and declared-schema behavior only. They do not validate physical interpretations or models.
 
 ## Documents
-- [`FHCL_foundation.md`](FHCL_foundation.md): foundation specification v0.1 (unchanged)
+- [`FGHCL_foundation.md`](FGHCL_foundation.md): foundation specification v0.1 (unchanged)
 - [`docs/janus_hydra_semantic_ingestor.md`](docs/janus_hydra_semantic_ingestor.md): the ten-head Janus Hydra semantic reader
-- [`docs/FHCL_reconciliation.md`](docs/FHCL_reconciliation.md): differences between v0.1 wording and the canonical V8 contract
+- [`docs/FGHCL_reconciliation.md`](docs/FGHCL_reconciliation.md): differences between v0.1 wording and the canonical V8 contract
 
