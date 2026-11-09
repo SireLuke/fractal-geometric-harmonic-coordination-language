@@ -12,7 +12,7 @@ The language must make it possible to:
 - represent measured, simulated, inferred, and user-defined metrics without conflating their provenance;
 - carry an eight-coordinate V8 state and its uncertainty;
 - describe geometric transformations as typed operations with explicit invariants;
-- translate V8/manifold information through Janus Hydra into paired UHFE and UDFE representations;
+- translate V8 state and its declared metadata through Janus Hydra into paired UHFE and UDFE representations;
 - encode cymatic patterns, honeycomb structures, and other geometric observations as data-bearing objects;
 - reproduce a result from immutable inputs, versioned mappings, and a deterministic operation log.
 
@@ -28,7 +28,7 @@ The following components have separate responsibilities and must not be collapse
 | D8 | A distinct rank-8 root system and, in the relevant construction, a symmetry subgroup acting compatibly on E8 | A synonym for E8 or a generic synonym for eight dimensions |
 | JOBF | Breathing, folding, flipping, rotating, and omnidirectional geometric operation family | A replacement for the underlying reference geometry |
 | V8 | Eight-coordinate manifold/state representation | A geometric polytope or a translator |
-| Janus Hydra | Fractal-geometric translator operating in tandem with V8 manifold states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/decoherence head |
+| Janus Hydra | Fractal-geometric translator operating in tandem with V8 states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/decoherence head |
 | UHFE | Formation / constructive-organization representation | Janus Hydra |
 | UDFE | Decoherence / inverse-organization representation | Janus Hydra |
 
