@@ -27,7 +27,7 @@ The following components have separate responsibilities and must not be collapse
 | E8 root system / Gosset 4₂₁ | Canonical 8D geometric reference; Gosset 4₂₁ is the convex polytope associated with the 240 E8 roots | A claim that every dynamic state is itself a regular Gosset polytope |
 | D8 | A distinct rank-8 root system and, in the relevant construction, a symmetry subgroup acting compatibly on E8 | A synonym for E8 or a generic synonym for eight dimensions |
 | JOBF | Breathing, folding, flipping, rotating, and omnidirectional geometric operation family | A replacement for the underlying reference geometry |
-| V8 | Eight-coordinate manifold/state representation | A geometric polytope or a translator |
+| V8 | Versioned eight-coordinate state schema | A geometric polytope or a translator |
 | Janus Hydra | Fractal-geometric translator operating in tandem with V8 states; compiles/translates metrics and parameters into downstream representations | UHFE, UDFE, or a formation/decoherence head |
 | UHFE | Formation / constructive-organization representation | Janus Hydra |
 | UDFE | Decoherence / inverse-organization representation | Janus Hydra |
