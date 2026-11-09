@@ -9,7 +9,7 @@ FGHCL defines a typed, provenance-preserving language for describing PAN V8 stat
 - **E8 / Gosset 4₂₁:** canonical geometric reference.
 - **D8:** distinct rank-8 root system and compatible symmetry subgroup in the relevant E8 construction; not a synonym for E8 or for eight-dimensional space.
 - **JOBF:** breathing, folding, flipping, rotating, and omnidirectional geometric operations.
-- **V8:** eight-coordinate manifold/state representation.
+- **V8:** versioned eight-coordinate state schema.
 - **Janus Hydra:** fractal-geometric translator operating in tandem with V8; it is neither UHFE nor UDFE.
 - **UHFE / UDFE:** paired formation and decoherence representations downstream of Janus translation.
 
