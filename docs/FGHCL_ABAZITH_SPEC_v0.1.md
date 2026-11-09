@@ -71,7 +71,7 @@ V8 = (h, R, u, d, tau, chi, s, f)
 | `R` | Recursive Depth |
 | `u` | Constructive Polarity |
 | `d` | Decoherence / entropy |
-| `tau` | Temporal Persistence (T may be accepted as a declared alias) |
+| `tau` | Temporal offset normalized against a declared reference window (T is provisional and must be explicitly declared) |
 | `chi` | Chirality / Orientation |
 | `s` | Information Density |
 | `f` | Forcing / Fractal Forcing Index |
