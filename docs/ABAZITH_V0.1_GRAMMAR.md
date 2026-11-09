@@ -28,7 +28,7 @@ The v0.1 profile identifier is `v8-core-1`, with coordinate order:
 | `R` | Recursive Depth |
 | `u` | Constructive Polarity |
 | `d` | Decoherence / entropy |
-| `tau` | Temporal Persistence |
+| `tau` | Temporal offset normalized against a declared reference window |
 | `chi` | Chirality / Orientation |
 | `s` | Information Density |
 | `f` | Forcing / Fractal Forcing Index |
