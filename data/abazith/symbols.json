@@ -1,0 +1,1645 @@
+{
+ "schema": "abazith-lexicon-v1",
+ "count": 204,
+ "provenance": "User-supplied plain-text export (data/abazith/source/symbols_raw.txt); converted mechanically, no values added.",
+ "fields_absent": [
+  "phonetic_weight",
+  "fractal_index",
+  "chirality",
+  "v8_coordinates"
+ ],
+ "symbols": [
+  {
+   "name": "Achira",
+   "section": "A",
+   "gloss": "The tenderness that spills toward everyone when love is still new.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Aenara",
+   "section": "A",
+   "gloss": "The steadying smallness of standing beneath a sky too vast to worry under.",
+   "code": "AE",
+   "family": "Mass & Energy",
+   "mode": "essential"
+  },
+  {
+   "name": "Ahena",
+   "section": "A",
+   "gloss": "The slow settling of the whole body into stillness at the end of a long day.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Asaha",
+   "section": "A",
+   "gloss": "The plain relief of being fully at home in your own skin.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Athira",
+   "section": "A",
+   "gloss": "The clarity that spreads once someone finally says the honest thing.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Avara",
+   "section": "A",
+   "gloss": "The quiet radiance of someone who makes others feel more like themselves.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Awaya",
+   "section": "A",
+   "gloss": "The bright restlessness of wanting a life you can already picture.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Ayana",
+   "section": "A",
+   "gloss": "The warmth that spreads through a room when one person's ease loosens everyone's.",
+   "code": "A",
+   "family": "Mass & Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Baheya",
+   "section": "B",
+   "gloss": "The low, deep thrum of feeling wholly alive in your own body.",
+   "code": "BA",
+   "family": "Source of Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Bara",
+   "section": "B",
+   "gloss": "The plain aliveness of a morning when your body finally feels its own again.",
+   "code": "BA",
+   "family": "Source of Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Basha",
+   "section": "B",
+   "gloss": "The quiet certainty that better is coming, held with no proof.",
+   "code": "BA",
+   "family": "Source of Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Bavela",
+   "section": "B",
+   "gloss": "The magnetism of a person entirely at ease with who they are.",
+   "code": "BA",
+   "family": "Source of Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Bawa",
+   "section": "B",
+   "gloss": "The charged quiet of a life about to change and not yet knowing how.",
+   "code": "BA",
+   "family": "Source of Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Beka",
+   "section": "B",
+   "gloss": "The clean feeling of a genuinely new start, before anything is spoiled.",
+   "code": "BE",
+   "family": "Source of Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Belana",
+   "section": "B",
+   "gloss": "The steady drive of someone quietly building a life piece by piece.",
+   "code": "BE",
+   "family": "Source of Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Bemara",
+   "section": "B",
+   "gloss": "The slow warmth of a strength that shows only in what it builds.",
+   "code": "BE",
+   "family": "Source of Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Besha",
+   "section": "B",
+   "gloss": "The first stirring of something new, at the point where it begins.",
+   "code": "BE",
+   "family": "Source of Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Chaga",
+   "section": "C",
+   "gloss": "The urge to thank someone who will never know what they did.",
+   "code": "CHA",
+   "family": "Love",
+   "mode": "physical"
+  },
+  {
+   "name": "Chama",
+   "section": "C",
+   "gloss": "The ache of loving a person more than you could ever show them.",
+   "code": "CHA",
+   "family": "Love",
+   "mode": "physical"
+  },
+  {
+   "name": "Chamena",
+   "section": "C",
+   "gloss": "The way a single act of kindness quietly changes the air of a room.",
+   "code": "CHA",
+   "family": "Love",
+   "mode": "physical"
+  },
+  {
+   "name": "Chaveya",
+   "section": "C",
+   "gloss": "The overflowing fondness that catches you off guard mid-conversation.",
+   "code": "CHA",
+   "family": "Love",
+   "mode": "physical"
+  },
+  {
+   "name": "Chaya",
+   "section": "C",
+   "gloss": "The pang of tenderness for someone asleep and unaware of you watching.",
+   "code": "CHA",
+   "family": "Love",
+   "mode": "physical"
+  },
+  {
+   "name": "Cheha",
+   "section": "C",
+   "gloss": "The safety of a silence that needs no defending.",
+   "code": "CHE",
+   "family": "Love",
+   "mode": "energetic"
+  },
+  {
+   "name": "Chehana",
+   "section": "C",
+   "gloss": "The bodily ease of being with someone who asks nothing of you.",
+   "code": "CHE",
+   "family": "Love",
+   "mode": "energetic"
+  },
+  {
+   "name": "Chelana",
+   "section": "C",
+   "gloss": "The open warmth of being welcomed exactly as you are.",
+   "code": "CHE",
+   "family": "Love",
+   "mode": "energetic"
+  },
+  {
+   "name": "Cheva",
+   "section": "C",
+   "gloss": "The warmth of being understood without having to explain yourself.",
+   "code": "CHE",
+   "family": "Love",
+   "mode": "energetic"
+  },
+  {
+   "name": "Daja",
+   "section": "D",
+   "gloss": "The stubborn will to stay with a thing through its long, thankless middle.",
+   "code": "DA",
+   "family": "Difference & Effort",
+   "mode": "physical"
+  },
+  {
+   "name": "Daka",
+   "section": "D",
+   "gloss": "The quiet strength of beginning again after a thing has broken.",
+   "code": "DA",
+   "family": "Difference & Effort",
+   "mode": "physical"
+  },
+  {
+   "name": "Davena",
+   "section": "D",
+   "gloss": "The quiet resolve to meet a hard thing rather than go around it.",
+   "code": "DA",
+   "family": "Difference & Effort",
+   "mode": "physical"
+  },
+  {
+   "name": "Dawa",
+   "section": "D",
+   "gloss": "The nervous thrill of a door you are about to walk through.",
+   "code": "DA",
+   "family": "Difference & Effort",
+   "mode": "physical"
+  },
+  {
+   "name": "Dayena",
+   "section": "D",
+   "gloss": "The satisfying ache of work that asked everything of you.",
+   "code": "DA",
+   "family": "Difference & Effort",
+   "mode": "physical"
+  },
+  {
+   "name": "Deka",
+   "section": "D",
+   "gloss": "The first move, made before anyone asks and before it is certain.",
+   "code": "DE",
+   "family": "Difference & Effort",
+   "mode": "energetic"
+  },
+  {
+   "name": "Delana",
+   "section": "D",
+   "gloss": "The clean feeling of finally crossing a line you had circled for months.",
+   "code": "DE",
+   "family": "Difference & Effort",
+   "mode": "energetic"
+  },
+  {
+   "name": "Demara",
+   "section": "D",
+   "gloss": "The slow reward of a hard thing that has begun, at last, to show.",
+   "code": "DE",
+   "family": "Difference & Effort",
+   "mode": "energetic"
+  },
+  {
+   "name": "Deza",
+   "section": "D",
+   "gloss": "The steadying breath taken just before doing the frightening thing.",
+   "code": "DE",
+   "family": "Difference & Effort",
+   "mode": "energetic"
+  },
+  {
+   "name": "Faha",
+   "section": "F",
+   "gloss": "The daily, unremarkable care that helps another thing grow to its full size.",
+   "code": "FA",
+   "family": "Feminine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Fana",
+   "section": "F",
+   "gloss": "The particular ease of a home that is not yours but could be.",
+   "code": "FA",
+   "family": "Feminine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Fatha",
+   "section": "F",
+   "gloss": "The grace of being forgiven before you have finished apologising.",
+   "code": "FA",
+   "family": "Feminine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Fava",
+   "section": "F",
+   "gloss": "The devotion that shows itself only in small, unnoticed acts.",
+   "code": "FA",
+   "family": "Feminine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Favena",
+   "section": "F",
+   "gloss": "The quiet holding of a space where someone can fall apart safely.",
+   "code": "FA",
+   "family": "Feminine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Faya",
+   "section": "F",
+   "gloss": "The quiet pride of watching someone grow past the help you gave them.",
+   "code": "FA",
+   "family": "Feminine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Fecha",
+   "section": "F",
+   "gloss": "Kindness offered before it is asked for.",
+   "code": "FE",
+   "family": "Feminine Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Fena",
+   "section": "F",
+   "gloss": "The tenderness you feel for a stranger who reminds you of someone loved.",
+   "code": "FE",
+   "family": "Feminine Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Feyana",
+   "section": "F",
+   "gloss": "The soft attention that settles a room without a word being said.",
+   "code": "FE",
+   "family": "Feminine Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Gacha",
+   "section": "G",
+   "gloss": "The swell of gratitude too large for the small kindness that caused it.",
+   "code": "GA",
+   "family": "Goodness Contained",
+   "mode": "physical"
+  },
+  {
+   "name": "Gaha",
+   "section": "G",
+   "gloss": "The plain, easy good health of a body and mind at rest with themselves.",
+   "code": "GA",
+   "family": "Goodness Contained",
+   "mode": "physical"
+  },
+  {
+   "name": "Gahena",
+   "section": "G",
+   "gloss": "The steady comfort of a kindness you can feel but cannot quite name.",
+   "code": "GA",
+   "family": "Goodness Contained",
+   "mode": "physical"
+  },
+  {
+   "name": "Gala",
+   "section": "G",
+   "gloss": "Being the same person whether or not anyone is watching.",
+   "code": "GA",
+   "family": "Goodness Contained",
+   "mode": "physical"
+  },
+  {
+   "name": "Galena",
+   "section": "G",
+   "gloss": "The plain decency of someone who does right when no one is counting.",
+   "code": "GA",
+   "family": "Goodness Contained",
+   "mode": "physical"
+  },
+  {
+   "name": "Gaya",
+   "section": "G",
+   "gloss": "The warmth of being briefly, uncomplicatedly content.",
+   "code": "GA",
+   "family": "Goodness Contained",
+   "mode": "physical"
+  },
+  {
+   "name": "Gefa",
+   "section": "G",
+   "gloss": "Small, unforced care given simply because it helps.",
+   "code": "GE",
+   "family": "Goodness Contained",
+   "mode": "energetic"
+  },
+  {
+   "name": "Gevana",
+   "section": "G",
+   "gloss": "The uncomplicated warmth of wishing another person genuinely well.",
+   "code": "GE",
+   "family": "Goodness Contained",
+   "mode": "energetic"
+  },
+  {
+   "name": "Geya",
+   "section": "G",
+   "gloss": "The small, surprising happiness of a plan going exactly right.",
+   "code": "GE",
+   "family": "Goodness Contained",
+   "mode": "energetic"
+  },
+  {
+   "name": "Hana",
+   "section": "H",
+   "gloss": "The quiet of settling fully into your own body after a long day.",
+   "code": "HA",
+   "family": "Finite Container",
+   "mode": "physical"
+  },
+  {
+   "name": "Hara",
+   "section": "H",
+   "gloss": "The specific peace of rain heard from somewhere warm and dry.",
+   "code": "HA",
+   "family": "Finite Container",
+   "mode": "physical"
+  },
+  {
+   "name": "Hata",
+   "section": "H",
+   "gloss": "The suspended hush of the hour before a long journey begins.",
+   "code": "HA",
+   "family": "Finite Container",
+   "mode": "physical"
+  },
+  {
+   "name": "Hava",
+   "section": "H",
+   "gloss": "The ease of picking up a friendship exactly where years ago left it.",
+   "code": "HA",
+   "family": "Finite Container",
+   "mode": "physical"
+  },
+  {
+   "name": "Haye",
+   "section": "H",
+   "gloss": "The heaviness that has no cause and lifts for no reason.",
+   "code": "HA",
+   "family": "Finite Container",
+   "mode": "physical"
+  },
+  {
+   "name": "Hefa",
+   "section": "H",
+   "gloss": "The care that fills a room before a single word is spoken.",
+   "code": "HE",
+   "family": "Finite Container",
+   "mode": "energetic"
+  },
+  {
+   "name": "Hela",
+   "section": "H",
+   "gloss": "The stillness of a mind that has finally stopped arguing with itself.",
+   "code": "HE",
+   "family": "Finite Container",
+   "mode": "energetic"
+  },
+  {
+   "name": "Hena",
+   "section": "H",
+   "gloss": "The held breath of a house asleep while you are the only one awake.",
+   "code": "HE",
+   "family": "Finite Container",
+   "mode": "energetic"
+  },
+  {
+   "name": "Hula",
+   "section": "H",
+   "gloss": "The half-sleep in which the day's small worries quietly dissolve.",
+   "code": "HU",
+   "family": "Finite Container",
+   "mode": "semi-physical"
+  },
+  {
+   "name": "Iaja",
+   "section": "I",
+   "gloss": "The moment you outgrow a story you had long told about yourself.",
+   "code": "IA",
+   "family": "Mass into Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Iala",
+   "section": "I",
+   "gloss": "The lucid hour when everything you look at seems newly clear.",
+   "code": "IA",
+   "family": "Mass into Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Iatha",
+   "section": "I",
+   "gloss": "The slow dawning that a belief you held was never really yours.",
+   "code": "IA",
+   "family": "Mass into Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Iaza",
+   "section": "I",
+   "gloss": "The certainty, gone by morning, that everything is somehow fine.",
+   "code": "IA",
+   "family": "Mass into Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Iela",
+   "section": "I",
+   "gloss": "The vertigo of realising how differently another person saw the same moment.",
+   "code": "IE",
+   "family": "Mass into Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Ilema",
+   "section": "I",
+   "gloss": "The moment a vague intention hardens into a clear decision.",
+   "code": "I",
+   "family": "Mass & Energy",
+   "mode": "semi-energetic"
+  },
+  {
+   "name": "Imara",
+   "section": "I",
+   "gloss": "The glow of watching a thing you built quietly take on its own life.",
+   "code": "I",
+   "family": "Mass & Energy",
+   "mode": "semi-energetic"
+  },
+  {
+   "name": "Ivana",
+   "section": "I",
+   "gloss": "The easy closeness of people who have stopped performing for each other.",
+   "code": "I",
+   "family": "Mass & Energy",
+   "mode": "semi-energetic"
+  },
+  {
+   "name": "Iyena",
+   "section": "I",
+   "gloss": "The unspoken feeling that passes, whole, between two people at once.",
+   "code": "I",
+   "family": "Mass & Energy",
+   "mode": "semi-energetic"
+  },
+  {
+   "name": "Jahena",
+   "section": "J",
+   "gloss": "The itch in the limbs to be somewhere other than here.",
+   "code": "JA",
+   "family": "Movement & Progress",
+   "mode": "physical"
+  },
+  {
+   "name": "Jaka",
+   "section": "J",
+   "gloss": "The forward motion that leaves a visible trail behind it.",
+   "code": "JA",
+   "family": "Movement & Progress",
+   "mode": "physical"
+  },
+  {
+   "name": "Jamera",
+   "section": "J",
+   "gloss": "The momentum of change that begins to leave a visible trail.",
+   "code": "JA",
+   "family": "Movement & Progress",
+   "mode": "physical"
+  },
+  {
+   "name": "Jana",
+   "section": "J",
+   "gloss": "The satisfaction of a hard thing becoming easy without your noticing.",
+   "code": "JA",
+   "family": "Movement & Progress",
+   "mode": "physical"
+  },
+  {
+   "name": "Jara",
+   "section": "J",
+   "gloss": "The restlessness of wanting change without knowing which kind.",
+   "code": "JA",
+   "family": "Movement & Progress",
+   "mode": "physical"
+  },
+  {
+   "name": "Javena",
+   "section": "J",
+   "gloss": "The forward pull of a plan two people hatch together.",
+   "code": "JA",
+   "family": "Movement & Progress",
+   "mode": "physical"
+  },
+  {
+   "name": "Jeka",
+   "section": "J",
+   "gloss": "The itch to begin before you feel remotely ready.",
+   "code": "JE",
+   "family": "Movement & Progress",
+   "mode": "energetic"
+  },
+  {
+   "name": "Jelana",
+   "section": "J",
+   "gloss": "The lightness of finally moving on from a thing you had outgrown.",
+   "code": "JE",
+   "family": "Movement & Progress",
+   "mode": "energetic"
+  },
+  {
+   "name": "Jeyana",
+   "section": "J",
+   "gloss": "The restless thrill of a life about to change its shape.",
+   "code": "JE",
+   "family": "Movement & Progress",
+   "mode": "energetic"
+  },
+  {
+   "name": "Kada",
+   "section": "K",
+   "gloss": "The clarity of a decision that finally ends a long indecision.",
+   "code": "KA",
+   "family": "Action",
+   "mode": "physical"
+  },
+  {
+   "name": "Kaju",
+   "section": "K",
+   "gloss": "The moment effort stops feeling like effort and begins to carry itself.",
+   "code": "KA",
+   "family": "Action",
+   "mode": "physical"
+  },
+  {
+   "name": "Kara",
+   "section": "K",
+   "gloss": "The stubborn hope that survives even a run of bad luck.",
+   "code": "KA",
+   "family": "Action",
+   "mode": "physical"
+  },
+  {
+   "name": "Kare",
+   "section": "K",
+   "gloss": "The surge of doing a thing you had put off for far too long.",
+   "code": "KA",
+   "family": "Action",
+   "mode": "physical"
+  },
+  {
+   "name": "Kavena",
+   "section": "K",
+   "gloss": "The clean satisfaction of doing a thing well and doing it together.",
+   "code": "KA",
+   "family": "Action",
+   "mode": "physical"
+  },
+  {
+   "name": "Kaya",
+   "section": "K",
+   "gloss": "The delight of a plan hatched with a friend and no intention of doing it.",
+   "code": "KA",
+   "family": "Action",
+   "mode": "physical"
+  },
+  {
+   "name": "Keja",
+   "section": "K",
+   "gloss": "The lightness of finally letting a long-held plan quietly go.",
+   "code": "KE",
+   "family": "Action",
+   "mode": "energetic"
+  },
+  {
+   "name": "Kesha",
+   "section": "K",
+   "gloss": "The private joy of making something no one asked you to make.",
+   "code": "KE",
+   "family": "Action",
+   "mode": "energetic"
+  },
+  {
+   "name": "Laga",
+   "section": "L",
+   "gloss": "The quiet knowledge that you did the right thing and told no one.",
+   "code": "LA",
+   "family": "Surface & Reflection",
+   "mode": "physical"
+  },
+  {
+   "name": "Lamera",
+   "section": "L",
+   "gloss": "The quiet honesty of a mirror showing what you had been avoiding.",
+   "code": "LA",
+   "family": "Surface & Reflection",
+   "mode": "physical"
+  },
+  {
+   "name": "Lana",
+   "section": "L",
+   "gloss": "The odd comfort of seeing your private feeling described by a stranger.",
+   "code": "LA",
+   "family": "Surface & Reflection",
+   "mode": "physical"
+  },
+  {
+   "name": "Lao",
+   "section": "L",
+   "gloss": "Catching, for a second, how your life looks from very far away.",
+   "code": "LA",
+   "family": "Surface & Reflection",
+   "mode": "physical"
+  },
+  {
+   "name": "Latha",
+   "section": "L",
+   "gloss": "The clarity that arrives only once it is too late to use it.",
+   "code": "LA",
+   "family": "Surface & Reflection",
+   "mode": "physical"
+  },
+  {
+   "name": "Lavena",
+   "section": "L",
+   "gloss": "The clarity of seeing a person exactly as they are and staying.",
+   "code": "LA",
+   "family": "Surface & Reflection",
+   "mode": "physical"
+  },
+  {
+   "name": "Leia",
+   "section": "L",
+   "gloss": "The uncanny feeling of your own thought arriving in someone else's words.",
+   "code": "LE",
+   "family": "Surface & Reflection",
+   "mode": "energetic"
+  },
+  {
+   "name": "Leya",
+   "section": "L",
+   "gloss": "The relief of being seen by someone who wanted nothing from you.",
+   "code": "LE",
+   "family": "Surface & Reflection",
+   "mode": "energetic"
+  },
+  {
+   "name": "Leyana",
+   "section": "L",
+   "gloss": "The strange calm of watching your own life as if from a step back.",
+   "code": "LE",
+   "family": "Surface & Reflection",
+   "mode": "energetic"
+  },
+  {
+   "name": "Maha",
+   "section": "M",
+   "gloss": "The ache of outgrowing a place that once held all of you.",
+   "code": "MA",
+   "family": "Descending Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Maka",
+   "section": "M",
+   "gloss": "The reluctant pride of finishing something you did not want to end.",
+   "code": "MA",
+   "family": "Descending Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Mao",
+   "section": "M",
+   "gloss": "The calm of a thing ending well, exactly when it should.",
+   "code": "MA",
+   "family": "Descending Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Mavena",
+   "section": "M",
+   "gloss": "The satisfaction of a shared idea becoming a thing you can both hold.",
+   "code": "MA",
+   "family": "Descending Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Maya",
+   "section": "M",
+   "gloss": "The way a scent can drop you whole into a year long gone.",
+   "code": "MA",
+   "family": "Descending Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Meha",
+   "section": "M",
+   "gloss": "The hollow after a long-awaited thing is finally over.",
+   "code": "ME",
+   "family": "Descending Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Meja",
+   "section": "M",
+   "gloss": "The slow relief of a burden lifting so gradually you missed it going.",
+   "code": "ME",
+   "family": "Descending Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Mena",
+   "section": "M",
+   "gloss": "The grief that arrives not at the loss but weeks after it.",
+   "code": "ME",
+   "family": "Descending Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Nafa",
+   "section": "N",
+   "gloss": "The welcome that expects nothing of you in return.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Naha",
+   "section": "N",
+   "gloss": "The settled place, or person, where you can stop holding yourself together.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Naja",
+   "section": "N",
+   "gloss": "The strange peace of forgiving someone entirely in their absence.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Nao",
+   "section": "N",
+   "gloss": "The strangeness of returning somewhere and finding it smaller than remembered.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Nara",
+   "section": "N",
+   "gloss": "The animal contentment of sun on your skin with nowhere to be.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Nata",
+   "section": "N",
+   "gloss": "The homesickness for a place you have never actually been.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Naveya",
+   "section": "N",
+   "gloss": "The level, easy warmth of a long friendship with nothing to prove.",
+   "code": "NA",
+   "family": "Horizontal Field",
+   "mode": "physical"
+  },
+  {
+   "name": "Neta",
+   "section": "N",
+   "gloss": "The quiet dread of a Sunday evening as the week gathers again.",
+   "code": "NE",
+   "family": "Horizontal Field",
+   "mode": "energetic"
+  },
+  {
+   "name": "Neya",
+   "section": "N",
+   "gloss": "The loneliness of a joke no one else would find funny.",
+   "code": "NE",
+   "family": "Horizontal Field",
+   "mode": "energetic"
+  },
+  {
+   "name": "Olana",
+   "section": "O",
+   "gloss": "The calm of watching your troubles shrink against something far larger.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Oma",
+   "section": "O",
+   "gloss": "The gentle emptiness of a task you have carried finally done.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Omara",
+   "section": "O",
+   "gloss": "The awe of a small act belonging to a much older, larger making.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Ona",
+   "section": "O",
+   "gloss": "The vast, easy feeling of a night sky that makes your worries small.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Osa",
+   "section": "O",
+   "gloss": "The sense of belonging to something far larger than yourself.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Ota",
+   "section": "O",
+   "gloss": "The odd tenderness toward your own life seen as if already past.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Otha",
+   "section": "O",
+   "gloss": "The peace of accepting a thing you cannot change.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Ovena",
+   "section": "O",
+   "gloss": "The vast, quiet sense of being one small part of everything at once.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Oyena",
+   "section": "O",
+   "gloss": "The tearful sense of everything, for a moment, quietly fitting together.",
+   "code": "O",
+   "family": "Entirety & Source",
+   "mode": "essential"
+  },
+  {
+   "name": "Pafa",
+   "section": "P",
+   "gloss": "The urge to shield someone the moment you notice how easily they could be hurt.",
+   "code": "PA",
+   "family": "Masculine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Pahena",
+   "section": "P",
+   "gloss": "The animal calm of being physically safe and somehow knowing it.",
+   "code": "PA",
+   "family": "Masculine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Pana",
+   "section": "P",
+   "gloss": "The instinct to make a hard thing easier for someone without being seen to.",
+   "code": "PA",
+   "family": "Masculine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Para",
+   "section": "P",
+   "gloss": "Protection held close enough to keep someone safe, loose enough to let them breathe.",
+   "code": "PA",
+   "family": "Masculine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Pasha",
+   "section": "P",
+   "gloss": "The clean admiration for someone doing exactly what they are for.",
+   "code": "PA",
+   "family": "Masculine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Pavena",
+   "section": "P",
+   "gloss": "The quiet steadiness of being guarded by someone who never mentions it.",
+   "code": "PA",
+   "family": "Masculine Power",
+   "mode": "physical"
+  },
+  {
+   "name": "Peha",
+   "section": "P",
+   "gloss": "The steady calm of being near someone who makes the world feel handled.",
+   "code": "PE",
+   "family": "Masculine Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Pelana",
+   "section": "P",
+   "gloss": "The safety of a structure someone else holds so that you can rest.",
+   "code": "PE",
+   "family": "Masculine Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Peta",
+   "section": "P",
+   "gloss": "The steady watch you keep over what has been left in your care.",
+   "code": "PE",
+   "family": "Masculine Power",
+   "mode": "energetic"
+  },
+  {
+   "name": "Rameya",
+   "section": "R",
+   "gloss": "The slow spread of a mood that lifts everyone it touches.",
+   "code": "RA",
+   "family": "Radiation",
+   "mode": "physical"
+  },
+  {
+   "name": "Rana",
+   "section": "R",
+   "gloss": "The calm that a large body of water lends without being asked.",
+   "code": "RA",
+   "family": "Radiation",
+   "mode": "physical"
+  },
+  {
+   "name": "Ravena",
+   "section": "R",
+   "gloss": "The warmth a person gives off that draws others quietly near.",
+   "code": "RA",
+   "family": "Radiation",
+   "mode": "physical"
+  },
+  {
+   "name": "Raya",
+   "section": "R",
+   "gloss": "The felt heat of standing near someone who is glad you came.",
+   "code": "RA",
+   "family": "Radiation",
+   "mode": "physical"
+  },
+  {
+   "name": "Rayena",
+   "section": "R",
+   "gloss": "The soft flattery of someone's full attention, freely given.",
+   "code": "RA",
+   "family": "Radiation",
+   "mode": "physical"
+  },
+  {
+   "name": "Rehana",
+   "section": "R",
+   "gloss": "The heat still held in the sheets a moment after you rise.",
+   "code": "RE",
+   "family": "Radiation",
+   "mode": "energetic"
+  },
+  {
+   "name": "Relana",
+   "section": "R",
+   "gloss": "The glow that lingers in a room after a good conversation ends.",
+   "code": "RE",
+   "family": "Radiation",
+   "mode": "energetic"
+  },
+  {
+   "name": "Revana",
+   "section": "R",
+   "gloss": "The pull toward a person whose ease makes the whole room softer.",
+   "code": "RE",
+   "family": "Radiation",
+   "mode": "energetic"
+  },
+  {
+   "name": "Saha",
+   "section": "S",
+   "gloss": "The rich solitude that feels chosen rather than imposed.",
+   "code": "SA",
+   "family": "Separate Waveform",
+   "mode": "physical"
+  },
+  {
+   "name": "Sana",
+   "section": "S",
+   "gloss": "Being distinctly yourself while still standing among others.",
+   "code": "SA",
+   "family": "Separate Waveform",
+   "mode": "physical"
+  },
+  {
+   "name": "Satha",
+   "section": "S",
+   "gloss": "The strange relief of admitting something you had hidden even from yourself.",
+   "code": "SA",
+   "family": "Separate Waveform",
+   "mode": "physical"
+  },
+  {
+   "name": "Sathe",
+   "section": "S",
+   "gloss": "The lightness after finally saying the thing you had been carrying.",
+   "code": "SA",
+   "family": "Separate Waveform",
+   "mode": "physical"
+  },
+  {
+   "name": "Sawa",
+   "section": "S",
+   "gloss": "The quiet resolve to become the person a situation is asking for.",
+   "code": "SA",
+   "family": "Separate Waveform",
+   "mode": "physical"
+  },
+  {
+   "name": "Seja",
+   "section": "S",
+   "gloss": "The slow surprise of becoming someone your younger self would not recognise.",
+   "code": "SE",
+   "family": "Separate Waveform",
+   "mode": "energetic"
+  },
+  {
+   "name": "Sela",
+   "section": "S",
+   "gloss": "The sense that a version of you lives on in everyone who has known you.",
+   "code": "SE",
+   "family": "Separate Waveform",
+   "mode": "energetic"
+  },
+  {
+   "name": "Sena",
+   "section": "S",
+   "gloss": "The particular loneliness of being surrounded by people who don't know you.",
+   "code": "SE",
+   "family": "Separate Waveform",
+   "mode": "energetic"
+  },
+  {
+   "name": "Seo",
+   "section": "S",
+   "gloss": "The relief of being no one in particular for an afternoon.",
+   "code": "SE",
+   "family": "Separate Waveform",
+   "mode": "energetic"
+  },
+  {
+   "name": "Shari",
+   "section": "S",
+   "gloss": "Creativity that spills past its edges and lights up whatever it touches.",
+   "code": "SHA",
+   "family": "Creativity",
+   "mode": "physical"
+  },
+  {
+   "name": "Shaya",
+   "section": "S",
+   "gloss": "The sudden lift when an idea arrives feeling more found than made.",
+   "code": "SHA",
+   "family": "Creativity",
+   "mode": "physical"
+  },
+  {
+   "name": "Shela",
+   "section": "S",
+   "gloss": "The thought that feels discovered rather than invented.",
+   "code": "SHE",
+   "family": "Creativity",
+   "mode": "energetic"
+  },
+  {
+   "name": "Sheta",
+   "section": "S",
+   "gloss": "The frustration of a vision far clearer in your head than in your hands.",
+   "code": "SHE",
+   "family": "Creativity",
+   "mode": "energetic"
+  },
+  {
+   "name": "Sheya",
+   "section": "S",
+   "gloss": "The absorption so complete you forget you have a body at all.",
+   "code": "SHE",
+   "family": "Creativity",
+   "mode": "energetic"
+  },
+  {
+   "name": "Taha",
+   "section": "T",
+   "gloss": "The comfort of a routine so worn it has stopped needing thought.",
+   "code": "TA",
+   "family": "Juncture & Structure",
+   "mode": "physical"
+  },
+  {
+   "name": "Tana",
+   "section": "T",
+   "gloss": "The particular stillness of a place just after everyone has left it.",
+   "code": "TA",
+   "family": "Juncture & Structure",
+   "mode": "physical"
+  },
+  {
+   "name": "Tao",
+   "section": "T",
+   "gloss": "The vertigo of a moment you know you will remember for the rest of your life.",
+   "code": "TA",
+   "family": "Juncture & Structure",
+   "mode": "physical"
+  },
+  {
+   "name": "Tara",
+   "section": "T",
+   "gloss": "The brief ache of a place at the exact moment you know you'll miss it.",
+   "code": "TA",
+   "family": "Juncture & Structure",
+   "mode": "physical"
+  },
+  {
+   "name": "Tasha",
+   "section": "T",
+   "gloss": "The reluctance to finish a thing you have loved the making of.",
+   "code": "TA",
+   "family": "Juncture & Structure",
+   "mode": "physical"
+  },
+  {
+   "name": "Tena",
+   "section": "T",
+   "gloss": "The way an old room seems to hold a moment long after it has passed.",
+   "code": "TE",
+   "family": "Juncture & Structure",
+   "mode": "energetic"
+  },
+  {
+   "name": "Tetha",
+   "section": "T",
+   "gloss": "Resting your whole attention on the present, exactly as it is.",
+   "code": "TE",
+   "family": "Juncture & Structure",
+   "mode": "energetic"
+  },
+  {
+   "name": "Thaga",
+   "section": "T",
+   "gloss": "The inner voice of right that speaks before you can talk yourself out of it.",
+   "code": "THA",
+   "family": "Truth",
+   "mode": "physical"
+  },
+  {
+   "name": "Thahe",
+   "section": "T",
+   "gloss": "The quiet honesty that only surfaces very late at night.",
+   "code": "THA",
+   "family": "Truth",
+   "mode": "physical"
+  },
+  {
+   "name": "Thane",
+   "section": "T",
+   "gloss": "The weight of a truth you cannot say and cannot quite keep.",
+   "code": "THA",
+   "family": "Truth",
+   "mode": "physical"
+  },
+  {
+   "name": "Thava",
+   "section": "T",
+   "gloss": "The courage it takes to say the plain thing everyone is avoiding.",
+   "code": "THA",
+   "family": "Truth",
+   "mode": "physical"
+  },
+  {
+   "name": "Thela",
+   "section": "T",
+   "gloss": "The moment a truth you long avoided becomes impossible to unsee.",
+   "code": "THE",
+   "family": "Truth",
+   "mode": "energetic"
+  },
+  {
+   "name": "Theza",
+   "section": "T",
+   "gloss": "Quiet respect for a thing far greater than yourself.",
+   "code": "THE",
+   "family": "Truth",
+   "mode": "energetic"
+  },
+  {
+   "name": "Tuna",
+   "section": "T",
+   "gloss": "The déjà-vu of a season returning and dragging an old mood with it.",
+   "code": "TU",
+   "family": "Juncture & Structure",
+   "mode": "semi-physical"
+  },
+  {
+   "name": "Vahena",
+   "section": "V",
+   "gloss": "The rare peace of sleeping soundly beside someone you trust.",
+   "code": "VA",
+   "family": "Connection",
+   "mode": "physical"
+  },
+  {
+   "name": "Valena",
+   "section": "V",
+   "gloss": "The quiet recognition of being truly seen by another person.",
+   "code": "VA",
+   "family": "Connection",
+   "mode": "physical"
+  },
+  {
+   "name": "Vame",
+   "section": "V",
+   "gloss": "The soft grief of a friendship that faded rather than ended.",
+   "code": "VA",
+   "family": "Connection",
+   "mode": "physical"
+  },
+  {
+   "name": "Vana",
+   "section": "V",
+   "gloss": "The relief of an old rift healing without either of you naming it.",
+   "code": "VA",
+   "family": "Connection",
+   "mode": "physical"
+  },
+  {
+   "name": "Vate",
+   "section": "V",
+   "gloss": "The reluctance to leave a good conversation even once it is clearly over.",
+   "code": "VA",
+   "family": "Connection",
+   "mode": "physical"
+  },
+  {
+   "name": "Vatha",
+   "section": "V",
+   "gloss": "The bond formed by a secret honestly shared.",
+   "code": "VA",
+   "family": "Connection",
+   "mode": "physical"
+  },
+  {
+   "name": "Vecha",
+   "section": "V",
+   "gloss": "The comfortable quiet between two people who no longer need to fill it.",
+   "code": "VE",
+   "family": "Connection",
+   "mode": "energetic"
+  },
+  {
+   "name": "Veha",
+   "section": "V",
+   "gloss": "The trust of falling asleep easily beside another person.",
+   "code": "VE",
+   "family": "Connection",
+   "mode": "energetic"
+  },
+  {
+   "name": "Vemara",
+   "section": "V",
+   "gloss": "The slow warmth of a bond that shows only in small, steady acts.",
+   "code": "VE",
+   "family": "Connection",
+   "mode": "energetic"
+  },
+  {
+   "name": "Waba",
+   "section": "W",
+   "gloss": "The fragile hope you protect by telling no one about it.",
+   "code": "WA",
+   "family": "Rising Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Waja",
+   "section": "W",
+   "gloss": "The itch to be somewhere other than wherever you currently are.",
+   "code": "WA",
+   "family": "Rising Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Wama",
+   "section": "W",
+   "gloss": "The quiet exhaustion that feels earned rather than merely tired.",
+   "code": "WA",
+   "family": "Rising Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Wara",
+   "section": "W",
+   "gloss": "The pull toward a life you can picture clearly but have not yet begun.",
+   "code": "WA",
+   "family": "Rising Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Washa",
+   "section": "W",
+   "gloss": "The restless promise of an idea you have told no one yet.",
+   "code": "WA",
+   "family": "Rising Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Waya",
+   "section": "W",
+   "gloss": "The bright lift of feeling that rises on its own and asks for nothing.",
+   "code": "WA",
+   "family": "Rising Energy",
+   "mode": "physical"
+  },
+  {
+   "name": "Weka",
+   "section": "W",
+   "gloss": "The itch of curiosity that will not let a question alone.",
+   "code": "WE",
+   "family": "Rising Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Wema",
+   "section": "W",
+   "gloss": "The tender pull of a memory you would not actually want to relive.",
+   "code": "WE",
+   "family": "Rising Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Weya",
+   "section": "W",
+   "gloss": "Wanting something so keenly that the wanting becomes a kind of company.",
+   "code": "WE",
+   "family": "Rising Energy",
+   "mode": "energetic"
+  },
+  {
+   "name": "Yacha",
+   "section": "Y",
+   "gloss": "The tenderness of watching someone you love do something small and ordinary.",
+   "code": "YA",
+   "family": "Energy into Mass",
+   "mode": "physical"
+  },
+  {
+   "name": "Yache",
+   "section": "Y",
+   "gloss": "The fondness that deepens precisely because a person is a little absurd.",
+   "code": "YA",
+   "family": "Energy into Mass",
+   "mode": "physical"
+  },
+  {
+   "name": "Yafa",
+   "section": "Y",
+   "gloss": "The tender embarrassment of caring about something very deeply.",
+   "code": "YA",
+   "family": "Energy into Mass",
+   "mode": "physical"
+  },
+  {
+   "name": "Yaha",
+   "section": "Y",
+   "gloss": "The clean lightness that follows a good and honest cry.",
+   "code": "YA",
+   "family": "Energy into Mass",
+   "mode": "physical"
+  },
+  {
+   "name": "Yama",
+   "section": "Y",
+   "gloss": "The bittersweet fondness for a former self you would not go back to.",
+   "code": "YA",
+   "family": "Energy into Mass",
+   "mode": "physical"
+  },
+  {
+   "name": "Yave",
+   "section": "Y",
+   "gloss": "Being moved to ease a difficulty you can feel as if it were your own.",
+   "code": "YA",
+   "family": "Energy into Mass",
+   "mode": "physical"
+  },
+  {
+   "name": "Yeha",
+   "section": "Y",
+   "gloss": "The specific melancholy of music heard in an empty house.",
+   "code": "YE",
+   "family": "Energy into Mass",
+   "mode": "energetic"
+  },
+  {
+   "name": "Yema",
+   "section": "Y",
+   "gloss": "The unexpected sadness of a happy day drawing toward its end.",
+   "code": "YE",
+   "family": "Energy into Mass",
+   "mode": "energetic"
+  },
+  {
+   "name": "Yena",
+   "section": "Y",
+   "gloss": "The faint sadness of a photograph of a day you barely recall.",
+   "code": "YE",
+   "family": "Energy into Mass",
+   "mode": "energetic"
+  },
+  {
+   "name": "Zahena",
+   "section": "Z",
+   "gloss": "The hush that gathers in old, high-ceilinged rooms and lifts the eyes.",
+   "code": "ZA",
+   "family": "Verticality",
+   "mode": "physical"
+  },
+  {
+   "name": "Zaka",
+   "section": "Z",
+   "gloss": "The private resolve made and then held to, through whatever follows.",
+   "code": "ZA",
+   "family": "Verticality",
+   "mode": "physical"
+  },
+  {
+   "name": "Zao",
+   "section": "Z",
+   "gloss": "The awe that briefly rearranges what you thought mattered.",
+   "code": "ZA",
+   "family": "Verticality",
+   "mode": "physical"
+  },
+  {
+   "name": "Zara",
+   "section": "Z",
+   "gloss": "The upward pull you feel in old, tall, quiet buildings.",
+   "code": "ZA",
+   "family": "Verticality",
+   "mode": "physical"
+  },
+  {
+   "name": "Zata",
+   "section": "Z",
+   "gloss": "The pause at the top of a climb before the going back down.",
+   "code": "ZA",
+   "family": "Verticality",
+   "mode": "physical"
+  },
+  {
+   "name": "Zavena",
+   "section": "Z",
+   "gloss": "The lift of a conversation that turns, without warning, toward the deep.",
+   "code": "ZA",
+   "family": "Verticality",
+   "mode": "physical"
+  },
+  {
+   "name": "Zeia",
+   "section": "Z",
+   "gloss": "The lift of glimpsing something vast just past the edge of understanding.",
+   "code": "ZE",
+   "family": "Verticality",
+   "mode": "energetic"
+  },
+  {
+   "name": "Zelana",
+   "section": "Z",
+   "gloss": "The quiet awe of an ordinary moment briefly turning sacred.",
+   "code": "ZE",
+   "family": "Verticality",
+   "mode": "energetic"
+  },
+  {
+   "name": "Zeyana",
+   "section": "Z",
+   "gloss": "The chest-lift of feeling, for an instant, part of something vast.",
+   "code": "ZE",
+   "family": "Verticality",
+   "mode": "energetic"
+  }
+ ]
+}

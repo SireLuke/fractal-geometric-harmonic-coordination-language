@@ -1,18 +1,18 @@
-# Azabith v0.1 — Frozen State Grammar
+# Abazith v0.1 — Frozen State Grammar
 
 **Status:** parser-backed v0.1 subset  
 **Language:** FGHCL (host language)  
-**Notation:** Azabith  
+**Notation:** Abazith  
 **Scope:** the first executable grammar covers the versioned V8 state record. It does not yet parse JOBF sequences, Janus Hydra translation blocks, UHFE/UDFE pair expressions, geometry declarations, or cymatics records.
 
 ## 1. Architecture and semantic boundaries
 
 - **FGHCL** is the host language and typed data model.
-- **Azabith** is its human-readable notation.
+- **Abazith** is its human-readable notation.
 - **V8** is the versioned eight-coordinate state schema.
 - **JOBF** names geometric operations; it is not the state schema.
 - **Janus Hydra** is the fractal-geometric translator; it is neither UHFE nor UDFE.
-- **UHFE / UDFE** are the paired formation / dissolution representations downstream of translation.
+- **UHFE / UDFE** are the paired formation / decoherence representations downstream of translation.
 
 The parser only constructs and validates source records. It does not execute geometry, perform Janus translation, calculate UHFE/UDFE, or assert physical validity.
 
@@ -28,7 +28,7 @@ The v0.1 profile identifier is `v8-core-1`, with coordinate order:
 | `R` | Recursive Depth |
 | `u` | Constructive Polarity |
 | `d` | Decoherence / entropy |
-| `tau` | Temporal Persistence |
+| `tau` | Temporal offset normalized against a declared reference window |
 | `chi` | Chirality / Orientation |
 | `s` | Information Density |
 | `f` | Forcing / Fractal Forcing Index |
@@ -41,7 +41,7 @@ The grammar below describes the supported v0.1 state document. Whitespace and co
 
 ```ebnf
 document       = language_decl, state_decl, EOF ;
-language_decl  = "language", "FGHCL.Azabith", "version", string ;
+language_decl  = "language", "FGHCL.Abazith", "version", string ;
 state_decl     = "state", "V8", string, "semantics", string,
                  "{", { state_member }, "}" ;
 state_member   = coordinate | metadata ;
@@ -83,8 +83,8 @@ For every accepted AST, `parse(serialize(ast))` must produce an AST equal to the
 
 ## 6. Example
 
-```azabith
-language FGHCL.Azabith version "0.1"
+```abazith
+language FGHCL.Abazith version "0.1"
 
 state V8 "state-0001" semantics "v8-core-1" {
   h: 0.82 unit "1" uncertainty 0.01
